@@ -41,5 +41,3 @@ Daniel Martínez (daniel.martinez@estudiantat.upc.edu)
 * make cleanDB: Restablece el estado de la base de datos.
 
 * make clean: Limpia el proyecto eliminando los directorios out, out/test, javadoc, EXE, y archivos temporales
-
-**Enunciat del projecte**
